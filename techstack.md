@@ -3,20 +3,20 @@
 ## Tech Stack
 dazeb/website-1 is built on the following main stack:
 
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [Jekyll](http://jekyllrb.com/) – Static Site Generators
-- [Socket.IO](http://socket.io/) – Realtime Backend / API
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [ESLint](http://eslint.org/) – Code Review
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Processing](http://processingjs.org/) – Languages
 - [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
-- [Prettier](https://prettier.io/) – Code Review
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Processing](http://processingjs.org/) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Socket.IO](http://socket.io/) – Realtime Backend / API
+- [ESLint](http://eslint.org/) – Code Review
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Prettier](https://prettier.io/) – Code Review
+- [Jekyll](http://jekyllrb.com/) – Static Site Generators
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -26,20 +26,20 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 dazeb/website-1 is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/6474/pjs_400x400.jpg' alt='Processing'/> [Processing](http://processingjs.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png' alt='GLSL'/> [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/6474/pjs_400x400.jpg' alt='Processing'/> [Processing](http://processingjs.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg' alt='Jekyll'/> [Jekyll](http://jekyllrb.com/) – Static Site Generators
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dazeb/website-1](https://github.com/dazeb/website-1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|36<br/>Tools used|01/11/24 <br/>Report generated|
+|36<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
